@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "eudi_cjcrypto",
+    "type": "har",
+    "deviceTypes": [
+      "phone"
+    ]
+  }
+}
